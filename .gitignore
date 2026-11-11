@@ -1,0 +1,16 @@
+# Junk
+*.pyc
+__pycache__/
+.pytest_cache/
+venv/
+.venv/
+.env
+.vscode/
+.idea/
+
+# Results (ignored)
+results/*
+!results/.gitkeep
+
+# Docs (not ignored)
+!docs/
